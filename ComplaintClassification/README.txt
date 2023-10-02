@@ -1,4 +1,4 @@
-Exercise: Customer Complaint Categorization using Document Embeddings
+Exercise: Customer Complaint Categorization
 
 Context:
 
