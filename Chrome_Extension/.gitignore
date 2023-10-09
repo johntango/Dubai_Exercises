@@ -1,0 +1,3 @@
+node-modules
+.env
+openai_key.json
